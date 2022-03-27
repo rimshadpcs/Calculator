@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="c">C</string>
+    <string name="equals">=</string>
+    <string name="point">.</string>
+    <string name="zero">0</string>
+    <string name="addition">+</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="subtraction">-</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="multiplication">*</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="division">/</string>
+    <string name="mean">Mean</string>
+    <string name="median">Median</string>
+    <string name="Comma">,</string>
+    <string name="title_activity_mean">MeanActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="message"><font size="25">Expected input elements by comma(1,2,3)</font></string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="mean_median">Mean Median</string>
+    <string name="seperarte">Separate values by comma </string>
+    <string name="delete">Delete</string>
+
+</resources>

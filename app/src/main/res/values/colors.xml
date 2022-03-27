@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="displayValuesText">#e4eff5</color>
+    <color name="displayValuesBackground">#8098a2</color>
+    <color name="mainBackground">#6d868f</color>
+    <color name="buttonTextColor">#f2f6f8</color>
+    <color name="buttonBackground">#69838c</color>
+    <color name="cbuttonText">#69838c</color>
+    <color name="cButtonBackground">#e4eff5</color>
+    <color name="operators">#730000</color>
+
+</resources>
